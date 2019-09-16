@@ -1,5 +1,6 @@
 body{
 	height: 500px;
 	width: 1000px;
-	background-color: #66FFFF;
+	/*background-color: #66FFFF;*/
+	background-image: url('../../image/aa.jpg');
 }
